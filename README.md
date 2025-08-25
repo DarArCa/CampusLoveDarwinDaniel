@@ -109,3 +109,15 @@ Una lista de las clases que utiliza cada componente (una clase la podría utiliz
 
 REQUERIMIENTO ADICIONAL DEL PROYECTO
 USO DE BASE DE DATOS Y PERSISTENCIA
+
+
+tabla de interacciones
+felipe 1 / 2
+carla 2 / 1
+si 1carla = 1felipe y 2carla = 2 felipe match
+
+Id auto increment
+Id_persona fk
+likes_persona
+likes_restantes
+
